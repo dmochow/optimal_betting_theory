@@ -1,3 +1,7 @@
+domain: dmochow.github.io/optimal_betting_theory      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://dmochow.github.io/optimal_betting_theory/  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /docs/
+
 theme: jekyll-theme-minimal
 title: The WagerWise Project
 description: Web accompaniment of A Statistical Theory of Optimal Decision-Making in Sports Betting
