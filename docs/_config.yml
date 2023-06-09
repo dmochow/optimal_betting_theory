@@ -32,7 +32,7 @@ github_username:  dmochow
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
