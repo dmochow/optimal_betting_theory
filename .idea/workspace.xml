@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="233c5796-4a83-40dc-8784-ca1f9d431525" name="Changes" comment="Adding _config.yaml">
+    <list default="true" id="233c5796-4a83-40dc-8784-ca1f9d431525" name="Changes" comment="editing config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Gemfile.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +12,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,6 +54,7 @@
       <workItem from="1685735229561" duration="1431000" />
       <workItem from="1685838010274" duration="689000" />
       <workItem from="1685901278192" duration="2432000" />
+      <workItem from="1686345957598" duration="1631000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing readme">
       <created>1685736834734</created>
@@ -89,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685903113946</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="editing config">
+      <created>1686346090525</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686346090525</updated>
+    </task>
+    <task id="LOCAL-00008" summary="editing config">
+      <created>1686347136538</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686347136538</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +133,7 @@
     <MESSAGE value="Initializing readme" />
     <MESSAGE value="Moving readme to top level" />
     <MESSAGE value="Adding _config.yaml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding _config.yaml" />
+    <MESSAGE value="editing config" />
+    <option name="LAST_COMMIT_MESSAGE" value="editing config" />
   </component>
 </project>
