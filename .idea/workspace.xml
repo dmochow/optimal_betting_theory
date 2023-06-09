@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="233c5796-4a83-40dc-8784-ca1f9d431525" name="Changes" comment="Moving readme to top level" />
+    <list default="true" id="233c5796-4a83-40dc-8784-ca1f9d431525" name="Changes" comment="Adding _config.yaml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,16 +20,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/jacekdmochowski/PROJECTS/optimal_betting_theory",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jacekdmochowski/PROJECTS/optimal_betting_theory&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -42,6 +44,8 @@
       <option name="presentableId" value="Default" />
       <updated>1685735228447</updated>
       <workItem from="1685735229561" duration="1431000" />
+      <workItem from="1685838010274" duration="689000" />
+      <workItem from="1685901278192" duration="2432000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing readme">
       <created>1685736834734</created>
@@ -57,7 +61,35 @@
       <option name="project" value="LOCAL" />
       <updated>1685736881371</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding _config.yaml">
+      <created>1685901461213</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685901461213</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding _config.yaml">
+      <created>1685902048392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685902048392</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding _config.yaml">
+      <created>1685902599608</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685902599608</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding _config.yaml">
+      <created>1685903113946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685903113946</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initializing readme" />
     <MESSAGE value="Moving readme to top level" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moving readme to top level" />
+    <MESSAGE value="Adding _config.yaml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding _config.yaml" />
   </component>
 </project>
