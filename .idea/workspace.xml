@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="233c5796-4a83-40dc-8784-ca1f9d431525" name="Changes" comment="editing config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Gemfile.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <workItem from="1685735229561" duration="1431000" />
       <workItem from="1685838010274" duration="689000" />
       <workItem from="1685901278192" duration="2432000" />
-      <workItem from="1686345957598" duration="1631000" />
+      <workItem from="1686345957598" duration="4544000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing readme">
       <created>1685736834734</created>
@@ -112,7 +111,70 @@
       <option name="project" value="LOCAL" />
       <updated>1686347136538</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="editing config">
+      <created>1686348347897</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686348347897</updated>
+    </task>
+    <task id="LOCAL-00010" summary="editing config">
+      <created>1686348831947</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686348831947</updated>
+    </task>
+    <task id="LOCAL-00011" summary="editing config">
+      <created>1686348897831</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686348897831</updated>
+    </task>
+    <task id="LOCAL-00012" summary="editing config">
+      <created>1686349148594</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686349148594</updated>
+    </task>
+    <task id="LOCAL-00013" summary="editing config">
+      <created>1686349396896</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686349396896</updated>
+    </task>
+    <task id="LOCAL-00014" summary="editing config">
+      <created>1686349472625</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686349472625</updated>
+    </task>
+    <task id="LOCAL-00015" summary="editing config">
+      <created>1686349541306</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686349541306</updated>
+    </task>
+    <task id="LOCAL-00016" summary="editing config">
+      <created>1686349603513</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686349603513</updated>
+    </task>
+    <task id="LOCAL-00017" summary="editing config">
+      <created>1686363637940</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1686363637940</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
