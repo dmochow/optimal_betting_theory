@@ -30,7 +30,7 @@ basewebsite: /docs
 #permalink: date
 
 #domain: dmochow.github.io/optimal_betting_theory/
-baseurl: /docs # the subpath of your site, e.g. /blog
+#baseurl: /docs # the subpath of your site, e.g. /blog
 #url: https://dmochow.github.io/optimal_betting_theory/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
