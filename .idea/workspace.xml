@@ -53,7 +53,7 @@
       <workItem from="1685735229561" duration="1431000" />
       <workItem from="1685838010274" duration="689000" />
       <workItem from="1685901278192" duration="2432000" />
-      <workItem from="1686345957598" duration="4544000" />
+      <workItem from="1686345957598" duration="6826000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing readme">
       <created>1685736834734</created>
@@ -174,7 +174,56 @@
       <option name="project" value="LOCAL" />
       <updated>1686363637940</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="editing config">
+      <created>1686363788745</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1686363788745</updated>
+    </task>
+    <task id="LOCAL-00019" summary="editing config">
+      <created>1686364295413</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1686364295413</updated>
+    </task>
+    <task id="LOCAL-00020" summary="editing config">
+      <created>1686364388745</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1686364388745</updated>
+    </task>
+    <task id="LOCAL-00021" summary="editing config">
+      <created>1686364512663</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1686364512663</updated>
+    </task>
+    <task id="LOCAL-00022" summary="editing config">
+      <created>1686364671980</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1686364671980</updated>
+    </task>
+    <task id="LOCAL-00023" summary="editing config">
+      <created>1686365272493</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1686365272493</updated>
+    </task>
+    <task id="LOCAL-00024" summary="editing config">
+      <created>1686365498056</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1686365498056</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
