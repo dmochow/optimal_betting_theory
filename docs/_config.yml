@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 website: https://dmochow.github.io/optimal_betting_theory
 basewebsite: /docs
-#permalink: date
+permalink: /:year/:month/:day/:title.html
 
 #domain: dmochow.github.io/optimal_betting_theory/
 #baseurl: /docs # the subpath of your site, e.g. /blog
