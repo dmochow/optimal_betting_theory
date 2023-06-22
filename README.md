@@ -23,9 +23,6 @@ steps below.
 
 _Tested on MacOS Monterey 12.3_
 
-## Alternatives
-Google Colab notebook (no Python environment needed)
-
 ## Link to paper
 To appear on June 28th, 2023. 
 
