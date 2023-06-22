@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="233c5796-4a83-40dc-8784-ca1f9d431525" name="Changes" comment="editing config">
+    <list default="true" id="233c5796-4a83-40dc-8784-ca1f9d431525" name="Changes" comment="curating public data">
+      <change afterPath="$PROJECT_DIR$/code/curate_public_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/optimal_betting_theory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/optimal_betting_theory.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/make_rev_margin_figures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/make_rev_margin_figures.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,7 +64,11 @@
       <workItem from="1685735229561" duration="1431000" />
       <workItem from="1685838010274" duration="689000" />
       <workItem from="1685901278192" duration="2432000" />
-      <workItem from="1686345957598" duration="6826000" />
+      <workItem from="1686345957598" duration="12476000" />
+      <workItem from="1687206214468" duration="87000" />
+      <workItem from="1687268904301" duration="623000" />
+      <workItem from="1687432668121" duration="1269000" />
+      <workItem from="1687434545311" duration="2573000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing readme">
       <created>1685736834734</created>
@@ -223,7 +238,56 @@
       <option name="project" value="LOCAL" />
       <updated>1686365498056</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="editing config">
+      <created>1686365993507</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1686365993507</updated>
+    </task>
+    <task id="LOCAL-00026" summary="editing config">
+      <created>1686366952328</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1686366952328</updated>
+    </task>
+    <task id="LOCAL-00027" summary="editing config">
+      <created>1686367782637</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1686367782637</updated>
+    </task>
+    <task id="LOCAL-00028" summary="editing config">
+      <created>1686368892712</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1686368892712</updated>
+    </task>
+    <task id="LOCAL-00029" summary="editing config">
+      <created>1686368983936</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1686368983936</updated>
+    </task>
+    <task id="LOCAL-00030" summary="editing config">
+      <created>1686369752819</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1686369752819</updated>
+    </task>
+    <task id="LOCAL-00031" summary="curating public data">
+      <created>1687436195865</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1687436195865</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +309,7 @@
     <MESSAGE value="Moving readme to top level" />
     <MESSAGE value="Adding _config.yaml" />
     <MESSAGE value="editing config" />
-    <option name="LAST_COMMIT_MESSAGE" value="editing config" />
+    <MESSAGE value="curating public data" />
+    <option name="LAST_COMMIT_MESSAGE" value="curating public data" />
   </component>
 </project>
