@@ -24,9 +24,9 @@ steps below.
 _Tested on MacOS Monterey 12.3_
 
 ## Link to paper
-To appear on June 28th, 2023. 
+[HTML](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287601)
 
 ## Citation
-10.1371/journal.pone.0287601
+Dmochowski JP (2023) A statistical theory of optimal decision-making in sports betting. PLoS ONE 18(6): e0287601. https://doi.org/10.1371/journal.pone.0287601
 
 
