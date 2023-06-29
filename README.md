@@ -27,6 +27,6 @@ _Tested on MacOS Monterey 12.3_
 [HTML](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287601)
 
 ## Citation
-Dmochowski JP (2023) A statistical theory of optimal decision-making in sports betting. PLoS ONE 18(6): e0287601. https://doi.org/10.1371/journal.pone.0287601
+Dmochowski JP (2023) A statistical theory of optimal decision-making in sports betting. PLoS ONE 18(6): e0287601. 
 
 
